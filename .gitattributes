@@ -1,1 +1,2 @@
 weights/pose_hrnet_w32_256x192_coco.pth filter=lfs diff=lfs merge=lfs -text
+weights/pose_hrnet_w48_256x192_coco.pth filter=lfs diff=lfs merge=lfs -text
